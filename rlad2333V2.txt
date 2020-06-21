@@ -1,1 +1,1 @@
-trojan= www.rlad2339.tk:443, password= tianwanggaidihu, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=trojan-tls-01
+trojan= www.rlad2339.tk:443, password= tianwanggaidihu, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=JH_Trojan
