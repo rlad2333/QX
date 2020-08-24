@@ -1,1 +1,2 @@
 trojan= www.rlad2339.tk:443, password= tianwanggaidihu, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=JH_Trojan
+vmess=www.chenlong666.ga:443, method=aes-128-gcm, password=c8a184bc-41d6-4a99-b56d-c686e98cce02, obfs=ws, obfs-uri=/abouts, fast-open=false, udp-relay=false, tag=CHENL
